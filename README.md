@@ -1,3 +1,3 @@
 # Bootstrap Project
 
-https://bootstrap-responsive-website-01.netlify.app
+[visit link](https://murttkapln.github.io/BootStrap-Responsive-WebSite/)
